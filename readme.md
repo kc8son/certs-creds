@@ -1,16 +1,43 @@
-# Certification Credentials and Evaluation Results
 
-- IKM - [SQL Server Programming](test_results/IKM20200410_SQLServerProgramming.pdf)  
-  These are the results of an IKM assessment taken on 04/10/2020. I scored in the 77th percentile.
+# 🏅 Certification Credentials & Evaluation Results
 
-- IKM - [Python 3 Programming](test_results/IKM20200421_Python3Programming.pdf)  
-  These are the results of another IKM assessment, this time for Python 3, taken on 04/21/2020. I scored in the 73rd percentile.
+Here is a summary of my IKM assessments across several key areas.
 
-- IKM - [Agile Process Management](test_results/IKM20200427_AgileProcessManagement.pdf)  
-  These are the results of another IKM assessment, this time for Agile Process Management, taken on 04/27/2020. I scored in the 78th percentile.
+---
 
-- IKM - [Python 3 Programming](test_results/IKM20210613_Python3Programming.pdf)  
-  These are the results of another IKM assessment, again for Python 3, taken on 06/13/2021. I scored in the 67th percentile. I'm not sure what that was about.
+### 📊 SQL Server Programming  
+**📅 Date Taken:** 04/10/2020  
+**📈 Score:** 77th Percentile  
+📄 [View Report](test_results/IKM20200410_SQLServerProgramming.pdf)
 
-- IKM - [Python, SQL, and Database Concepts](test_results/IKM20250505_PythonSQLDatabaseConcepts.pdf)  
-  Another IKM assessment, taken in the context of a Data Engineer position. I took this assessment on 05/07/2025 and scored in the 81st percentile.
+---
+
+### 🐍 Python 3 Programming  
+**📅 Date Taken:** 04/21/2020  
+**📈 Score:** 73rd Percentile  
+📄 [View Report](test_results/IKM20200421_Python3Programming.pdf)
+
+---
+
+### 🛠 Agile Process Management  
+**📅 Date Taken:** 04/27/2020  
+**📈 Score:** 78th Percentile  
+📄 [View Report](test_results/IKM20200427_AgileProcessManagement.pdf)
+
+---
+
+### 🐍 Python 3 Programming (Retake)  
+**📅 Date Taken:** 06/13/2021  
+**📈 Score:** 67th Percentile  
+📄 [View Report](test_results/IKM20210613_Python3Programming.pdf)  
+> _Note: Not my best showing—uncertain what caused the drop._
+
+---
+
+### 🧠 Python, SQL, and Database Concepts  
+**📅 Date Taken:** 05/07/2025  
+**📈 Score:** 81st Percentile  
+📄 [View Report](test_results/IKM20250505_PythonSQLDatabaseConcepts.pdf)  
+> _Completed as part of a Data Engineer role application._
+
+---
