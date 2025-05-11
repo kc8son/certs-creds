@@ -1,9 +1,10 @@
-
 # 🏅 Certification Credentials & Evaluation Results
 
 Here is a summary of my IKM (and other) assessments across several key areas.
 
 ---
+
+## 🧪 IKM Assessments (Chronological)
 
 ### 📊 IKM - SQL Server Programming  
 **📅 Date Taken:** 04/10/2020  
@@ -42,26 +43,36 @@ Here is a summary of my IKM (and other) assessments across several key areas.
 
 ---
 
+## 🧠 BrainBench Assessments (Chronological)
+
+### 🧠 BrainBench - MS SQL Server 2005 Programming  
+**📅 Date Taken:** 09/12/2007  
+**📈 Score:** 83rd Percentile  
+📄 [View Report](test_results/BrainBench_MSSQLServer2005Programming_20070912.png)  
+> _BrainBench.com is no longer available. This is a screenshot from the results email._
+
+---
+
+### 🧠 BrainBench - Data Modeling Concepts  
+**📅 Date Taken:** 10/13/2007  
+**📈 Score:** 64th Percentile  
+📄 [View Report](test_results/BrainBench_DataModelingConcepts_20071003.png)  
+> _BrainBench.com is no longer available. This is a screenshot from the results email._
+
+---
+
+### 🧠 BrainBench - RDBMS Concepts  
+**📅 Date Taken:** 07/10/2008  
+**📈 Score:** 98th Percentile  
+📄 [View Report](test_results/BrainBench_RDBMSConcepts_20080710.png)  
+> _BrainBench.com is no longer available. This is a screenshot from the results email._
+
+---
+
 ### 🧠 BrainBench - Business Communication  
 **📅 Date Taken:** 07/13/2008  
 **📈 Score:** 95th Percentile  
 📄 [View Report](test_results/BrainBench_BusinessCommunication_20080713.png)  
-> _BrainBench.com is no longer available. This is a screenshot from the results email._
-
----
-
-### 🧠 BrainBench - Listening Skills  
-**📅 Date Taken:** 07/21/2008  
-**📈 Score:** 96th Percentile  
-📄 [View Report](test_results/BrainBench_ListeningSkills_20080721.png)  
-> _BrainBench.com is no longer available. This is a screenshot from the results email._
-
----
-
-### 🧠 BrainBench - Programmer Analyst Aptitude  
-**📅 Date Taken:** 07/21/2008  
-**📈 Score:** 90th Percentile  
-📄 [View Report](test_results/BrainBench_ProgrammerAnalystAptitude_20080721.png)  
 > _BrainBench.com is no longer available. This is a screenshot from the results email._
 
 ---
@@ -83,7 +94,7 @@ Here is a summary of my IKM (and other) assessments across several key areas.
 ---
 
 ### 🧠 BrainBench - Programming Concepts  
-**📅 Date Taken:**  07/13/2008   
+**📅 Date Taken:** 07/13/2008  
 **📈 Score:** 80th Percentile  
 📄 [View Report](test_results/BrainBench_ProgrammingConcepts_20080713.png)  
 > _BrainBench.com is no longer available. This is a screenshot from the results email._
@@ -98,26 +109,18 @@ Here is a summary of my IKM (and other) assessments across several key areas.
 
 ---
 
-### 🧠 BrainBench - RDBMS Concepts  
-**📅 Date Taken:** 07/10/2008   
-**📈 Score:** 98th Percentile  
-📄 [View Report](test_results/BrainBench_RDBMSConcepts_20080710.png)  
+### 🧠 BrainBench - Listening Skills  
+**📅 Date Taken:** 07/21/2008  
+**📈 Score:** 96th Percentile  
+📄 [View Report](test_results/BrainBench_ListeningSkills_20080721.png)  
 > _BrainBench.com is no longer available. This is a screenshot from the results email._
 
 ---
 
-### 🧠 BrainBench - Data Modeling Concepts  
-**📅 Date Taken:** 10/13/2007  
-**📈 Score:** 64th Percentile  
-📄 [View Report](test_results/BrainBench_DataModelingConcepts_20071003.png)  
-> _BrainBench.com is no longer available. This is a screenshot from the results email._
-
----
-
-### 🧠 BrainBench - MS SQL Server 2005 Programming  
-**📅 Date Taken:** 09/12/2007  
-**📈 Score:** 83rd Percentile  
-📄 [View Report](test_results/BrainBench_MSSQLServer2005Programming_20070912.png)  
+### 🧠 BrainBench - Programmer Analyst Aptitude  
+**📅 Date Taken:** 07/21/2008  
+**📈 Score:** 90th Percentile  
+📄 [View Report](test_results/BrainBench_ProgrammerAnalystAptitude_20080721.png)  
 > _BrainBench.com is no longer available. This is a screenshot from the results email._
 
 ---
