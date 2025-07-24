@@ -4,6 +4,13 @@ Here is a summary of my IKM (and other) assessments across several key areas.
 
 ---
 
+## Grand Circus Boot Camp 
+### After-Hours Data Analytics& Engineering w/Python  
+**📅 Date Taken:** Feb 2023 - Aug 2023  
+📄 [View Certificate](certifications/AHBC_DataPy_Joseph_Merten.pdf)  
+
+---
+
 ## 🧪 IKM Assessments (Reverse Chronological)
 
 ### 🧠 IKM - Python, SQL, and Database Concepts  
