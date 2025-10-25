@@ -1,6 +1,6 @@
-# 🏅 Certification Credentials & Evaluation Results
+# 🏅 Certifications, Credentials & Assessment Results
 
-Here is a summary of my IKM (and other) assessments across several key areas.
+Here is a summary of my Certifications, credentials and IKM (and other) assessments across several key areas.
 
 ---
 
