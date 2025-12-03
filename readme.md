@@ -20,7 +20,7 @@ Here is a summary of my Certifications, credentials and IKM (and other) assessme
 
 ## ScrumAlliance.org 
 ### Certified Scrum Product Owner® 
-**📅 Date Taken:** Mar 20, 2013  
+**📅 Date Taken:** Mar 11, 2022  
 📄 [View Certificate](certifications/JosephPMerten-ScrumAlliance_CSPO_Certificate.pdf)  
 
 ---
