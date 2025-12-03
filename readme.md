@@ -4,6 +4,27 @@ Here is a summary of my Certifications, credentials and IKM (and other) assessme
 
 ---
 
+## Astronomer.io 
+### Astronomer Certification for Apache Airflow 2 Fundamentals  
+**📅 Date Taken:** Jun 2, 2021  
+📄 [View Certificate](certifications/AstronomerCertificationforApacheAirflow2Fundamentals_JosephPMerten.pdf)  
+
+---
+
+## ScrumAlliance.org 
+### Certified ScrumMaster®  
+**📅 Date Taken:** Mar 20, 2013  
+📄 [View Certificate](certifications/JosephPMerten-ScrumAlliance_CSM_Certificate.pdf)  
+
+---
+
+## ScrumAlliance.org 
+### Certified Scrum Product Owner® 
+**📅 Date Taken:** Mar 20, 2013  
+📄 [View Certificate](certifications/JosephPMerten-ScrumAlliance_CSPO_Certificate.pdf)  
+
+---
+
 ## Grand Circus Boot Camp 
 ### After-Hours Data Analytics& Engineering w/Python  
 **📅 Date Taken:** Feb 2023 - Aug 2023  
